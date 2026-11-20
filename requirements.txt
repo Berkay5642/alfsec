@@ -1,3 +1,0 @@
-cryptography
-PySocks
-Pillow
